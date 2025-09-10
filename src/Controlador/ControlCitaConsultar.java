@@ -49,7 +49,7 @@ public class ControlCitaConsultar {
                   citasVista.tAObservaciones.setText(rs.getString(11));
                 }while(rs.next());
             }else{
-                JOptionPane.showMessageDialog(null,"El número de la Cita no existe");
+                JOptionPane.showMessageDialog(null,"Cita no registrada");
             }
            
         } catch (SQLException ex) {
