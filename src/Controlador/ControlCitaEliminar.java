@@ -43,7 +43,7 @@ public class ControlCitaEliminar {
                  CitaVista.txtApellidos.setText(rs.getString(5)); 
             }while(rs.next());
             }else{
-                JOptionPane.showMessageDialog(null,"El número de Cita no existe");
+                JOptionPane.showMessageDialog(null,"Cita no registrada");
             }
            
         } catch (SQLException ex) {
