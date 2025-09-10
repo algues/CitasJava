@@ -1,0 +1,43 @@
+
+                   Médicos Registrados
+
+  IDENTIFICACIONOMBRES       APELLIDOS     ESPECIALIDAD
+  72900788     Justo Miguel  Andrade Peña  Ginecologia
+  22500600     Yeimy Stefany Estrada Nogue Médico Genera
+  22666888     Damaris Maria Perez oñate   Pediatria
+  72300200     Alvaro Jose   Rodríguez Men Ortopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  3/11/23 07:49 AM                         Page 1 of 1
+
+

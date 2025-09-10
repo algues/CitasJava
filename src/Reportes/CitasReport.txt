@@ -1,0 +1,43 @@
+
+                    Citas Registradas
+
+  NUMEROFECHA  HORA   PACIEN MEDICO CONSUL ESTADO OBSERV
+  2     15-11- 05:40  723007 225006 2      Aproba El pac
+  4     30-11- 01:30  225008 225006 2      Aproba La pac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  3/11/23 10:48 AM                         Page 1 of 1
+
+

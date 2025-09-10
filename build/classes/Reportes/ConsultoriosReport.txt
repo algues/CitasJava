@@ -1,0 +1,43 @@
+
+                 Consultorios Registrados
+
+  NUMERO                     NOMBRE
+  1                          Ginecologia
+  2                          Urologia
+  3                          Ortopedia
+  4                          Uncologia
+  6                          Neurologia
+  7                          Pediatria
+  8                          Rayos X
+  9                          Optalmologia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  3/11/23 08:33 AM                         Page 1 of 1
+
+
