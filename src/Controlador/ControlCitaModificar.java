@@ -47,7 +47,7 @@ public class ControlCitaModificar {
               }while(rs.next());
         
             }else{
-                JOptionPane.showMessageDialog(null,"El número de la Cita no existe");
+                JOptionPane.showMessageDialog(null,"Cita no registrada");
             }
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(null,"Error durante el procedimiento"+ex);
